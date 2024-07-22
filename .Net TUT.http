@@ -1,6 +1,0 @@
-@_Net_TUT_HostAddress = http://localhost:5149
-
-GET {{_Net_TUT_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
